@@ -1,0 +1,131 @@
+[
+  
+  {
+    "id": 1,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "Can you show me the ingredients for the 'SK-II Facial Treatment Essence'?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:16:19"
+  },
+  {
+    "id": 2,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "**SK-II Facial Treatment Essence**  \n- **Brand:** SK‑II  \n- **Price:** $179.00  \n- **Rating:** 4.1 / 5  \n- **Skin types:** Combination, Dry, Normal, Oily, Sensitive  \n- **Benefits:** Skin barrier repair, deep hydration  \n- **Ingredients:** Galactomyces Ferment Filtrate (Pitera), Butylene Glycol, Pentylene Glycol, Water, Sodium Benzoate, Methylparaben, Sorbic Acid.",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:17:02"
+  },
+  {
+    "id": 3,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "Which products from the brand 'LA MER' do you have in stock?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:17:37"
+  },
+  {
+    "id": 4,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "Here arethe LA MER products currently in our database:\n\n- **Little Miss Miracle Limited‑Edition Crème de la Mer** – Moisturizer – $325.0 – Rating 5.0/5  \n- **Crème de la Mer Mini** – Moisturizer – $85.0 – Rating 4.1/5  \n- **The Moisturizing Cool Gel Cream** – Moisturizer – $175.0 – Rating 3.3/5  \n- **Crème de la Mer** – Moisturizer – $175.0 – Rating 4.1/5  \n- **The Cleansing Foam Mini** – Cleanser – $25.0 – Rating 5.0/5  \n\nAll are from the LA MER brand. Let me know if you’d like details on any specific item!",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:18:03"
+  },
+  {
+    "id": 5,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "What are the benefits of using a face mask for dry skin?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:18:32"
+  },
+  {
+    "id": 6,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "Based on the face‑mask informationin our database, the benefits listed for these products include:\n\n- **Nourishing** – helps replenish moisture and nutrients for dry skin.  \n- **Detoxifying** – removes impurities that can exacerbate dryness.  \n- **Instant glow** – improves radiance, giving dry skin a healthier look.  \n- **Deep cleanse** – clears buildup without stripping essential oils.\n\nThese benefits can support dry skin by providing hydration, soothing irritation, and enhancing overall skin appearance.",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:19:23"
+  },
+  {
+    "id": 7,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "What are the benefits of using a face mask for dry skin?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:21:18"
+  },
+  {
+    "id": 8,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "Using aface mask can help dry skin by providing **nourishment** to replenish moisture, **detoxifying** to clear impurities that can worsen dryness, delivering an **instant glow** for a healthier‑looking complexion, and offering a **deep cleanse** that removes buildup without stripping essential oils. These benefits are highlighted in masks such as the Firmarine Lift Face Mask, Shake & Shot™ Rubber Firming Mask, Ultramoor Mud Mask, and Egg Cream Mask Firming, all of which list Dry as a suitable skin type.",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:21:48"
+  },
+  {
+    "id": 9,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "I have dry and sensitive skin. What products would you recommend?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:32:51"
+  },
+  {
+    "id": 10,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "Here are a few products fromour database that are listed as suitable for **dry and sensitive skin**:\n\n| Product | Brand | Price | Rating | Skin‑type suitability | Benefits (as listed) |\n|---------|-------|-------|--------|-----------------------|----------------------|\n| Ready Steady Glow Daily AHA Tonic | REN CLEAN SKINCARE | $35.0 | 4.4/5 | Combination, Dry, Normal, Oily, Sensitive | Pore cleansing, balances pH |\n| Perfect Canvas Skin Finishing Serum | REN CLEAN SKINCARE | $55.0 | 4.5/5 | Combination, Dry, Normal, Oily, Sensitive | Acne control, brightening |\n| Doctor's Kit Gold Standard Anti‑Aging Solution | DR. DENNIS GROSS SKINCARE | $59.0 | 5.0/5 | Combination, Dry, Normal, Oily, Sensitive | Brightening, pigmentation reduction |\n| SK‑II Facial Treatment Essence | SK‑II | $179.00 | 4.1/5 | Combination, Dry, Normal, Oily, Sensitive | Skin barrier repair, deep hydration |\n\nAll of these items are marked in the database as appropriate for dry and sensitive skin, and they include the key details (price, rating, and benefits) that are available in our product context. If you’d like more information on any of them—such as full ingredient lists or additional usage tips—just let me know!",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:34:32"
+  },
+  {
+    "id": 11,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "I bought a cleanser yesterday but I want to return it. What is the process?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:38:23"
+  },
+  {
+    "id": 12,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "For queries regarding offers, returns, or shipping, please contact our support team at 1800-XXX-XXXX.",
+    "escalated": true,
+    "timestamp": "2026-03-22 12:38:28"
+  },
+  {
+    "id": 13,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "Do you have any 'Buy One Get One' deals running right now?",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:38:57"
+  },
+  {
+    "id": 14,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "For queries regarding offers, returns, or shipping, please contact our support team at 1800-XXX-XXXX.",
+    "escalated": true,
+    "timestamp": "2026-03-22 12:39:04"
+  },
+  {
+    "id": 15,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "user",
+    "message": "Recommend a skincare routine for someone with combination skin.",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:39:31"
+  },
+  {
+    "id": 16,
+    "session_id": "5a6ab94f-2cff-49d3-b208-9b71cf1ba0a9",
+    "role": "assistant",
+    "message": "Here’s a simple combination‑skin routine using the products we have in stock:\n\n| Step | Product (Brand) | Price | Rating | Skin‑type fit | Key Benefits |\n|------|-----------------|-------|--------|---------------|--------------|\n| **Cleanse / Tone** | Essential Power Skin Toner for Combination to Oily Skin (LANEIGE) | $28.0 | 4.4/5 | Combination, Oily | Removes impurities, balances pH |\n| **Treat** | Doctor's Kit Gold Standard Anti‑Aging Solution (DR. DENNIS GROSS SKINCARE) | $59.0 | 5.0/5 | Combination, Dry, Normal, Oily, Sensitive | Brightening, pigmentation reduction |\n| **Mask (2‑3×/week)** | Hyaluronic Marine Hydrating Modeling Mask (DR. DENNIS GROSS SKINCARE) | $48.0 | 4.1/5 | Combination, Dry, Normal | Nourishing, instant glow |\n| **Eye Care** | SpectraLite EyeCare Pro LED Device (DR. DENNIS GROSS SKINCARE) | $159.0 | 3.9/5 | Combination, Dry, Normal, Oily, Sensitive | Dark‑circle treatment, fine‑line smoothing |\n\n**How to use**\n\n1. **Morning & night:** After washing your face, swipe the LANEIGE toner over skin to cleanse and prep.  \n2. **Morning:** Apply a thin layer of the Doctor’s Kit Anti‑Aging Solution to target dullness and uneven tone.  \n3. **Evening (2‑3 times a week):** After cleansing, apply the Hyaluronic Marine Hydrating Modeling Mask for 10‑15 minutes, then rinse.  \n4. **Every night:** Finish with the SpectraLite EyeCare Pro LED Device around the eye area as directed.\n\nAll of these items are listed as suitable for combination skin, so they should work together without over‑drying or over‑oiling the T‑zone. Let me know if you’d like more details on any specific product!",
+    "escalated": false,
+    "timestamp": "2026-03-22 12:40:44"
+  }
+]

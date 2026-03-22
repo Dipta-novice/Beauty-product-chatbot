@@ -1,0 +1,15 @@
+
+langchain
+langchain-openai
+langchain-community
+chromadb
+sentence-transformers
+rank-bm25
+psycopg2-binary
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-core
+langchain-chroma 
+langchain-retrievers>=0.3.0
